@@ -1,3 +1,3 @@
 () => {
-  qweqwe
+  console.log('test push')
 }
